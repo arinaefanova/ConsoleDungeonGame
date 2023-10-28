@@ -24,7 +24,7 @@ void Game::startGame(){
         std::cin.clear();
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     }
-    if ((size >= 2) and (size<=7)){
+    if ((size >= 2) && (size<=7)){
         m_size=size;
         m_player = new Player(size);
         m_map = new Map(size, m_player);
@@ -73,7 +73,7 @@ void Game::selectDown(){
 
 //Function for processing the selection of 'D'.
 bool Game::selectRight(){
-    if (m_player->getY() == 0 and (m_player->getX() + 1) == m_size ){
+    if (m_player->getY() == 0 && (m_player->getX() + 1) == m_size ){
         if (m_map->isEnemyVectorNull()){
             GamePrints::printWin();
             deleteGameByName(m_gameName);
