@@ -32,7 +32,7 @@ C++ Compiler: A C++ compiler with C++17 support is necessary for building the pr
 ### Installation
 ### 1. Clone the repository:
 ```
-git clone https://github.com/xxefex/ConsoleDungeonGame.git
+git clone https://github.com/arinaefanova/ConsoleDungeonGame.git
 ```
 ```
 cd ConsoleDungeonGame
