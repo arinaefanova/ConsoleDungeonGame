@@ -67,3 +67,41 @@ Use the keys and input commands as instructed within the game.
 ### 3. Enjoy the game!
 Play, enjoy, and conquer your adventures in the world of Dungeon game - Witcher.
 
+## Screenshots of the game
+
+### Menu of the game
+
+<p align="center">
+  <img src="/screenshots/Start_game.png" alt="Start Game" width="500"/>
+</p>
+
+### Game map
+
+<p align="center">
+  <img src="/screenshots/Game_map.png" alt="Game map" width="600"/>
+</p>
+
+### Example of fight
+
+<p align="center">
+  <img src="/screenshots/Game_fight.png" alt="Game fight" width="600"/>
+</p>
+
+### Restarting the game
+
+<p align="center">
+  <img src="/screenshots/Load game.png" alt="Load game" width="600"/>
+</p>
+
+### End of the game
+
+<p align="center">
+  <img src="/screenshots/Clean_map.png" alt="Clean map" width="600"/>
+</p>
+
+<p align="center">
+  <img src="/screenshots/End of the game.png" alt="End of the game" width="600"/>
+</p>
+
+
+
