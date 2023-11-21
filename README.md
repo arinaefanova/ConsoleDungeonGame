@@ -20,6 +20,13 @@ underscoring the importance of tactical decisions in battle. The ultimate object
 
 - **Random Distribution:** Enemies and various bonuses are distributed randomly across the map, making each game unique.
 
+## Class diagram
+
+<p align="center">
+  <img src="/screenshots/class diagram.png" alt="Class diagram" width="1000"/>
+</p>
+
+  
 ### Requirements:
 ```
 CMake: Minimum required version is 3.24 for project generation.
